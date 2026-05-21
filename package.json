@@ -1,0 +1,10 @@
+{
+  "name": "node-red-automation",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node-red --userDir . flows.json"
+  },
+  "dependencies": {
+    "node-red": "^4.0.0"
+  }
+}
